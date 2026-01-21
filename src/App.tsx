@@ -301,8 +301,9 @@ function App() {
               {
                 icon: Rocket,
                 title: 'Automation Mindset',
-                detail: 'Python + SQL scripts across logs, ETL, and validation workflows cut manual toil by 30-40%.'
-              },
+                detail: 'Process improvement through structured workflows, dashboards, and standardized documentation. Reduced manual tracking and improved reporting accuracy across compliance and operational programs.'
+              }
+              
               {
                 icon: Lightbulb,
                 title: 'People-First Support',
