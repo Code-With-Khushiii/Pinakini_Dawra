@@ -302,7 +302,7 @@ function App() {
                 icon: Rocket,
                 title: 'Automation Mindset',
                 detail: 'Process improvement through structured workflows, dashboards, and standardized documentation. Reduced manual tracking and improved reporting accuracy across compliance and operational programs.'
-              }
+              },
               
               {
                 icon: Lightbulb,
